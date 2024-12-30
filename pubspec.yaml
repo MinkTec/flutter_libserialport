@@ -22,9 +22,6 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        pluginClass: FlutterLibserialportPlugin
-        package: org.sigrok.flutter_libserialport
       linux:
         pluginClass: FlutterLibserialportPlugin
       macos:
