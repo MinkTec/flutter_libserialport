@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_libserialport:
-    path: ../
+    git: git@github.com:MinkTec/flutter_libserialport
 
 flutter:
   uses-material-design: true

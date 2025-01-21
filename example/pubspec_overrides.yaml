@@ -1,4 +1,6 @@
-# melos_managed_dependency_overrides: flutter_libserialport
+# melos_managed_dependency_overrides: flutter_libserialport,libserialport
 dependency_overrides:
   flutter_libserialport:
     path: ..
+  libserialport:
+    path: ../../libserialport.dart
